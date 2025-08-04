@@ -1,15 +1,15 @@
 {
-  "autocomplete-result-list.v2": {
+  "estilospe-autocomplete-result-list": {
     "component": "Autocomplete",
     "required": ["product-summary"]
   },
-  "did-you-mean": {
+  "estilospe-did-you-mean": {
     "component": "DidYouMean"
   },
-  "search-suggestions": {
+  "estilospe-search-suggestions": {
     "component": "Suggestions"
   },
-  "search-banner": {
+  "estilospe-search-banner": {
     "component": "Banner"
   }
 }
