@@ -1,7 +1,7 @@
 {
   "name": "search",
   "vendor": "estilospe",
-  "version": "3.1.0",
+  "version": "4.0.0",
   "title": "Search",
   "description": "Search components and functionality for VTEX IO.",
   "builders": {
